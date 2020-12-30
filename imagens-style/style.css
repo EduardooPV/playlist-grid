@@ -115,3 +115,10 @@ img {
     max-width: 560px;
     width: 90%;
 }
+
+.sub-menu:hover{
+    text-decoration: revert;
+}
+.botao a:hover {
+    background-color: black;
+}
